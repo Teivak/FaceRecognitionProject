@@ -1,4 +1,10 @@
 # FaceRecognitionProject
+Файлы, которые могут пригодиться
+
+https://disk.yandex.ru/d/9M_3zIGsJIP6Nw
+
+---
+
 1_HW_FaceAlignment
 
 https://colab.research.google.com/github/Teivak/FaceRecognitionProject/blob/main/1_HW_FaceAlignment.ipynb
